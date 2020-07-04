@@ -1,5 +1,5 @@
 From ac31c7ef4564a3299263666f3c7bba833d73eb42 Mon Sep 17 00:00:00 2001
-From: Chandrika Deb <chandrikadeb7@gmail.com>
+From: Abhay Raj Singh Rathore <sr.abhayraj@gmail.com>
 Date: Tue, 5 May 2020 11:33:07 +0530
 Subject: [PATCH] reate patch file
 
